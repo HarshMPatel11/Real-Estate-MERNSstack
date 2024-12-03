@@ -27,11 +27,6 @@ Username: user@gmail.com
 Password: user123
 
 
-## **Contributing**
-
-We believe in the power of collaboration! Join us in making RealEstateCRM even better. Whether you're a developer, designer, or Real Estate enthusiast, your contributions are invaluable. Check out our contribution guidelines and dive into our codebase.
-
-
 ## **License**
 
 RealEstateCRM is released under the MIT License. Feel free to use, modify, and distribute the software in accordance with the license terms.
